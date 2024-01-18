@@ -1,4 +1,4 @@
-import '../components/CoreConcepts.css';
+import '../CoreConcepts/CoreConcepts.css';
 
 // Custom Component with props usage and re-usage of same component 
 export default function CoreConcept({ image, title, description }) {
